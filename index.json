@@ -1,0 +1,10 @@
+{
+  "version": 48,
+  "default_lang": "zh_CN",
+  "translations": {
+    "zh_CN": {
+      "name": "Chinese (CN)",
+      "file": "zh_CN.json"
+    }
+  }
+}
